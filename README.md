@@ -23,13 +23,20 @@ Desenvolvi este projeto em Kotlin durante um desafio de 10 dias, como parte da m
   </tr>
 </table>
 
-## Tecnologias utilizadas
+## Tecnologias e conceitos utilizados
 
 - **Kotlin:** linguagem utilizada na lógica da aplicação.
 - **XML:** criação dos layouts das telas.
 - **Android Studio:** ambiente de desenvolvimento.
 - **Activities e Intents:** navegação e passagem de dados entre telas.
 - **Gradle:** configuração e compilação do projeto.
+
+- ## Lógica de Programação
+- Tipos de variáveis
+- Conversão de tipos
+- Operadores matemáticos
+- Operadores relacionais
+- Manipulação de valores  
 
 ## Como utilizar
 
