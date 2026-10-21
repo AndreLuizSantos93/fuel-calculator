@@ -31,7 +31,7 @@ Desenvolvi este projeto em Kotlin durante um desafio de 10 dias, como parte da m
 - **Activities e Intents:** navegação e passagem de dados entre telas.
 - **Gradle:** configuração e compilação do projeto.
 
-- ## Lógica de Programação
+ ## Lógica de Programação
 - Tipos de variáveis
 - Conversão de tipos
 - Operadores matemáticos
